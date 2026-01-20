@@ -63,9 +63,3 @@ Unit & integration testing · ESLint · Prettier · Code reviews · Strong focus
 ## 📫 Connect
 - GitHub: https://github.com/CodeManBist
 
----
-
-If you want, I can:
-- Add badges (GitHub stats / top languages),  
-- Include short repo descriptions + screenshots for selected projects, or  
-- Prepare and show the exact commit (branch + message) you should run — just say which.
