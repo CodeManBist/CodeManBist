@@ -1,4 +1,4 @@
-# Hi, I'm CodeManBist 👋
+# Hi, I'm Sagar Bist 👋
 
 I'm Sagar (CodeManBist) — a pragmatic Full Stack Developer who builds reliable, production-ready web applications and APIs. I enjoy turning ideas into polished products using modern JavaScript, Node.js, and cloud-native tooling. I focus on clean code, developer ergonomics, and systems that scale.
 
