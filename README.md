@@ -30,7 +30,7 @@
   <a href="https://linkedin.com/in/sagar-bist-378a03268" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:sagarbist372@gmail.com" target="blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sagarbist372@gmail.com" target="_blank" rel="noreferrer">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" />
   </a>
   <a href="https://github.com/CodeManBist" target="blank">
@@ -100,22 +100,6 @@
 ---
 
 ## 📊 GitHub Statistics
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemanbist&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=codemanbist&show_icons=true&hide_border=true&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
-</p>
 
 <p>
   <img
