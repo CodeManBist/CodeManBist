@@ -101,17 +101,11 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codemanbist&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codemanbist&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codemanbist&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codemanbist&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemanbist&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemanbist" alt="GitHub Streak" /></p>
 
 ---
 
