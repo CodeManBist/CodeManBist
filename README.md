@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codemanbist&label=Profile%20views&color=0e75b6&style=flat" alt="codemanbist" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codemanbist" alt="codemanbist" /></a> </p>
-
 ## 🚀 What I'm Working On
 
 - 🔭 **Currently Building:** AutoApply-AI – An AI-powered tool that helps generate tailored job applications automatically  
