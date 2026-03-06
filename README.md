@@ -31,7 +31,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:sagarbist372@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" />
   </a>
   <a href="https://github.com/CodeManBist" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
@@ -101,11 +101,29 @@
 
 ## 📊 GitHub Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codemanbist&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemanbist&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400"
+    alt="Top Languages"
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codemanbist&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=codemanbist&show_icons=true&hide_border=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemanbist" alt="GitHub Streak" /></p>
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=codemanbist&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
