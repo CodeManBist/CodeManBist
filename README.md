@@ -3,13 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codemanbist&label=Profile%20views&color=0e75b6&style=flat" alt="codemanbist" /> </p>
 
-## 🚀 What I'm Working On
-
-- 🔭 **Currently Building:** AutoApply-AI – An AI-powered tool that helps generate tailored job applications automatically  
-  [GitHub Repo](https://github.com/CodeManBist/AutoApply-AI)
-
-- 🌱 **Currently Learning:** Agentic AI & Advanced System Design
-
 - 👨‍💻 **All Projects:** [github.com/CodeManBist](https://github.com/CodeManBist)
 
 - 💬 **Ask me about:** HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, PostgreSQL, and building production-ready full-stack applications
