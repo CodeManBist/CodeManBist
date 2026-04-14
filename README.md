@@ -9,7 +9,7 @@
 
 - 📫 **Reach out:** sagarbist372@gmail.com
 
-- 📄 **Experience & Resume:** [View on Google Drive](https://drive.google.com/file/d/1hdYx4AGoyl2e0mOpplEOMGiwJ0XhQRk-/view?usp=drivesdk)
+- 📄 **Experience & Resume:** [View on Google Drive](https://drive.google.com/file/d/1dqDH-sBYYNUkLD_nRYE5nQxlbbmSXtnk/view?usp=sharing)
 
 - ⚡ **Fun fact:** I enjoy building projects every day and turning ideas into real applications 🚀
 
