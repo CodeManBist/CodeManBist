@@ -22,7 +22,7 @@ A pragmatic Full Stack Developer building reliable, production-ready web apps & 
 
 ## 🤝 Connect with Me
 
-<p align="center">
+<p align="center" style="white-space: nowrap;>
   <a href="https://linkedin.com/in/sagar-bist-378a03268" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="margin-right:10px;" />
   </a>
@@ -38,7 +38,7 @@ A pragmatic Full Stack Developer building reliable, production-ready web apps & 
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
+<p align="center" style="white-space: nowrap;>
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
