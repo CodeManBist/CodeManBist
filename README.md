@@ -72,6 +72,6 @@ A pragmatic Full Stack Developer building reliable, production-ready web apps & 
 
 ---
 
-div align="center">
+<div align="center">
   <strong>Let's build something amazing together! 💪</strong>
 </div>
