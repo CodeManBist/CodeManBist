@@ -22,7 +22,7 @@ A pragmatic Full Stack Developer building reliable, production-ready web apps & 
 
 ## 🤝 Connect with Me
 
-<p align="center" style="white-space: nowrap;>
+<div align="center">
   <a href="https://linkedin.com/in/sagar-bist-378a03268" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="margin-right:10px;" />
   </a>
@@ -32,13 +32,13 @@ A pragmatic Full Stack Developer building reliable, production-ready web apps & 
   <a href="https://github.com/CodeManBist" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
   </a>
-</p>
+</div>
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<p align="center" style="white-space: nowrap;>
+<div align="center">
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
@@ -61,7 +61,7 @@ A pragmatic Full Stack Developer building reliable, production-ready web apps & 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</p>
+</div>
 
 ---
 
