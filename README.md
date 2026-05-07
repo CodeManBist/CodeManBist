@@ -15,7 +15,7 @@ A pragmatic Full Stack Developer building reliable, production-ready web apps & 
 - 🌱 Currently improving in **React, Node.js & system design**  
 - 💬 Ask me about **HTML, CSS, JS, React, Node, Express, MongoDB, PostgreSQL**  
 - 📫 Reach me: **sagarbist372@gmail.com**  
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1dqDH-sBYYNUkLD_nRYE5nQxlbbmSXtnk/view?usp=sharing)  
+- 📄 Resume: [View Here](https://drive.google.com/file/d/13TgTWju1Fg-f27YePR1JixoABC4ulSdp/view?usp=sharing)  
 - ⚡ Fun fact: I build projects daily 🚀  
 
 ---
